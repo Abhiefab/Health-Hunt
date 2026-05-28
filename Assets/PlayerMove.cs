@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class PlayerMove : MonoBehaviour
@@ -7,6 +8,12 @@ public class PlayerMove : MonoBehaviour
 
     [Header("Movement")]
     public float speed = 5f;
+
+    [Header("Gravity")]
+    public float gravity = -9.81f;
+
+    Vector3 velocity;
+
     public Text healthText;
 
     float score = 10;
@@ -14,6 +21,11 @@ public class PlayerMove : MonoBehaviour
     void Update()
     {
         Move();
+
+        if (score >= 100)
+        {
+            SceneManager.LoadScene("Complete");
+        }
     }
 
     void Move()
@@ -24,27 +36,34 @@ public class PlayerMove : MonoBehaviour
         Vector3 move = transform.right * x + transform.forward * z;
 
         controller.Move(move * speed * Time.deltaTime);
+
+        // Gravity
+        if (controller.isGrounded && velocity.y < 0)
+        {
+            velocity.y = -2f;
+        }
+
+        velocity.y += gravity * Time.deltaTime;
+
+        controller.Move(velocity * Time.deltaTime);
     }
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("health"))
         {
-            score = score + 5;
+            score += 5;
             healthText.text = score.ToString();
 
             other.gameObject.SetActive(false);
-
-            Debug.Log(score);
         }
+
         if (other.gameObject.CompareTag("MainHealth"))
         {
-            score = score + 10;
+            score += 10;
             healthText.text = score.ToString();
 
             other.gameObject.SetActive(false);
-
-            Debug.Log(score);
         }
     }
 }
