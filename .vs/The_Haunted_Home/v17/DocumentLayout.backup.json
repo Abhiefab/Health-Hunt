@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avina\\The_Haunted_Home\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|c:\\users\\avina\\the_haunted_home\\assets\\gameovercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|solutionrelative:assets\\gameovercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|c:\\users\\avina\\the_haunted_home\\assets\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|solutionrelative:assets\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|C:\\Users\\avina\\The_Haunted_Home\\assets\\timecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|solutionrelative:assets\\timecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|C:\\Users\\avina\\The_Haunted_Home\\assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|solutionrelative:assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|C:\\Users\\avina\\The_Haunted_Home\\assets\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|solutionrelative:assets\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|C:\\Users\\avina\\The_Haunted_Home\\assets\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|solutionrelative:assets\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|C:\\Users\\avina\\The_Haunted_Home\\assets\\camerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|solutionrelative:assets\\camerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|C:\\Users\\avina\\The_Haunted_Home\\assets\\indoorgate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB15244-4BC4-4490-63F7-CA61E1407C74}|Assembly-CSharp.csproj|solutionrelative:assets\\indoorgate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gameOverController.cs",
+              "DocumentMoniker": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\gameOverController.cs",
+              "RelativeDocumentMoniker": "Assets\\gameOverController.cs",
+              "ToolTip": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\gameOverController.cs",
+              "RelativeToolTip": "Assets\\gameOverController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T11:01:41.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneChanger.cs",
+              "ToolTip": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\SceneChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:55:46.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeController.cs",
+              "DocumentMoniker": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\TimeController.cs",
+              "RelativeDocumentMoniker": "Assets\\TimeController.cs",
+              "ToolTip": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\TimeController.cs",
+              "RelativeToolTip": "Assets\\TimeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:34:46.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\HealthController.cs",
+              "RelativeDocumentMoniker": "Assets\\HealthController.cs",
+              "ToolTip": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\HealthController.cs",
+              "RelativeToolTip": "Assets\\HealthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:06:12.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndoorGate.cs",
+              "DocumentMoniker": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\IndoorGate.cs",
+              "RelativeDocumentMoniker": "Assets\\IndoorGate.cs",
+              "ToolTip": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\IndoorGate.cs",
+              "RelativeToolTip": "Assets\\IndoorGate.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA7wA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T08:34:16.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "doorController.cs",
+              "DocumentMoniker": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\doorController.cs",
+              "RelativeDocumentMoniker": "Assets\\doorController.cs",
+              "ToolTip": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\doorController.cs",
+              "RelativeToolTip": "Assets\\doorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:56:34.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\PlayerMove.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:22:34.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cameraScript.cs",
+              "DocumentMoniker": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\cameraScript.cs",
+              "RelativeDocumentMoniker": "Assets\\cameraScript.cs",
+              "ToolTip": "C:\\Users\\avina\\The_Haunted_Home\\Assets\\cameraScript.cs",
+              "RelativeToolTip": "Assets\\cameraScript.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:17:47.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
