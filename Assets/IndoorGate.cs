@@ -3,6 +3,7 @@ using UnityEngine;
 public class IndoorGate : MonoBehaviour
 {
     public Animator ani;
+    public AudioSource doorSound;
 
     bool playerNear = false;
     bool isOpen = false;
@@ -14,6 +15,7 @@ public class IndoorGate : MonoBehaviour
             isOpen = true;
 
             ani.SetTrigger("inDoor");
+            doorSound.Play();
         }
     }
 

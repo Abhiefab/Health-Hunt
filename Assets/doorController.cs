@@ -2,8 +2,10 @@ using UnityEngine;
 
 public class doorController : MonoBehaviour
 {
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public Animator ani;
+    public AudioSource doorSound;
     void Start()
     {
         
@@ -15,6 +17,7 @@ public class doorController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.O))
         {
             ani.SetTrigger("Door");
+            doorSound.Play();
         }
 
     }
